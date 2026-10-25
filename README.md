@@ -1,2 +1,2 @@
 # Uzair-WebDev
-<h3> Author - Muhammad Uzair Khan </h3>
+<h3> Author - Muhammad Uzair Khan (ALB) </h3>
