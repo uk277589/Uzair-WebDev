@@ -1,2 +1,2 @@
 # Uzair-WebDev
-Author - Muhammad Uzair Khan
+<h3> Author - Muhammad Uzair Khan </h3>
